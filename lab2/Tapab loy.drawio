@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
+  <diagram name="Page-1" id="wvLtiSMvMj_-HsReq6n3">
+    <mxGraphModel dx="1578" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-1" target="Pa0JYJkhse4otXrvz2yN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-1" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="324" y="30" width="203" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-3" target="Pa0JYJkhse4otXrvz2yN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.7500000000002" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-3" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;Display&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;น้ำโค้ก (10 บาท)&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;น้ำเขียว (12 บาท)&lt;/u&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;อเมริกาโน่ (30 บาท)&lt;/u&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;ลาเต้ (35 บาท)&lt;/u&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;เมล็ดทานตะวัน (13 บาท)&lt;/u&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;ถั่วแปบ (20 บาท)&lt;/u&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;จิ้นส้มหมก (15 บาท)&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#00FFFF);" vertex="1" parent="1">
+          <mxGeometry x="173" y="160" width="503.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-5" target="Pa0JYJkhse4otXrvz2yN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.7500000000002" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-5" value="Add price to total &amp;amp; record item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="160.00000000000023" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.93499999999995" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-17" value="if no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa0JYJkhse4otXrvz2yN-16">
+          <mxGeometry x="-0.0537" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-8" value="Customer wants to buy more?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);" vertex="1" parent="1">
+          <mxGeometry x="327.87" y="630" width="192.13" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-8" target="Pa0JYJkhse4otXrvz2yN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-15" value="if yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa0JYJkhse4otXrvz2yN-14">
+          <mxGeometry x="-0.6217" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-18" target="Pa0JYJkhse4otXrvz2yN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.75" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-18" value="Accept payment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="364.75" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-23" value="if yse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa0JYJkhse4otXrvz2yN-21">
+          <mxGeometry x="-0.621" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-34" value="if no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa0JYJkhse4otXrvz2yN-24">
+          <mxGeometry x="-0.2098" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-20" value="Payment &amp;gt;= total?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF33FF);" vertex="1" parent="1">
+          <mxGeometry x="317.88" y="1090" width="215.25" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-25" target="Pa0JYJkhse4otXrvz2yN-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-25" value="Show &quot;Insufficient funds&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="710" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-29" value="Calculate change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="50" y="1410" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="467" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-31" value="Display selected items" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="407" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-33" target="Pa0JYJkhse4otXrvz2yN-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="467" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-33" value="Show change &amp; remaining coins/bills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="407" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa0JYJkhse4otXrvz2yN-36" target="Pa0JYJkhse4otXrvz2yN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-36" value="Pay change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="407" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-37" value="Pay for the selected products" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="407" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa0JYJkhse4otXrvz2yN-38" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;End&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=light-dark(#FFFFFF,#FF0000);" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="1970" width="213" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
