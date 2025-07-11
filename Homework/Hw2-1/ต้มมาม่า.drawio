@@ -1,0 +1,381 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
+  <diagram name="Page-1" id="LE3c7IvEj8nsEUrI21r7">
+    <mxGraphModel dx="7478" dy="4156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0jGZSmvmxk3otOEil0KO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-100" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-7" value="ไม่มีเลยอะ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-4">
+          <mxGeometry x="0.1128" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-6" value="มีคับน้อง" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-5">
+          <mxGeometry x="-0.054" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;มีมาม่าบ่อ้าย?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="165" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-8" value="ให้เงินไปซื้อที่ร้านขายของที่ใกล้ที่สุด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-12" target="0jGZSmvmxk3otOEil0KO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-12" value="ไปซื้อม่ามา" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-22" value="เบิ่ดแล้วหำ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-16">
+          <mxGeometry x="0.2638" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-23" value="เหลืออยู่หำ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-18">
+          <mxGeometry x="0.1535" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;อ้ายมีบ่อ้าย&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-17" target="0jGZSmvmxk3otOEil0KO-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-17" value="กลับบ้านมือเปล่า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-19" value="กลับบ้านพร้อมกับมาม่า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-21" value="บอกพี่ว่ามี" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="630" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-27" value="ต้มน้ำให้เดือด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="470" width="177.5" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-29" target="0jGZSmvmxk3otOEil0KO-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-29" value="บอกว่าไม่มี" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-31" value="สั่งเซเว่นมาส่ง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-34" value="เซเว่นมาส่งแล้ว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-38" value="เดือดแล้ว" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-37">
+          <mxGeometry x="-0.239" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-40" value="ยังไม่เดือด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-39">
+          <mxGeometry x="-0.5078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-36" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;น้ำเดือดยัง&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1230" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="1560" as="sourcePoint" />
+            <mxPoint x="110" y="1375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-41" target="0jGZSmvmxk3otOEil0KO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รอจนกว่าจะเดือด&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1560" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;เอามาม่าลงต้ม&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1275" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-44" value="น้องอยากกินมาม่า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.862;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-31" target="0jGZSmvmxk3otOEil0KO-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="950" as="sourcePoint" />
+            <mxPoint x="489" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-45" target="0jGZSmvmxk3otOEil0KO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-45" value="รอเซเว่นมาส่ง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-50" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ปรากฎว่าแก๊สหมด&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-272.5" y="1850" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-55" target="0jGZSmvmxk3otOEil0KO-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-55" value="โทรสั่งแก๊ส" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-595" y="1350" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-60" value="แก๊สมาแล้ววว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-69" target="0jGZSmvmxk3otOEil0KO-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-71" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-70">
+          <mxGeometry x="-0.054" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-73" value="เงินพออยู่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-72">
+          <mxGeometry x="-0.1418" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-69" value="เงินพอไหม?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-75" target="0jGZSmvmxk3otOEil0KO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-75" value="จ่ายเงินรับของ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-77" target="0jGZSmvmxk3otOEil0KO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-77" value="ขอเงินเพิ่ม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-79" target="0jGZSmvmxk3otOEil0KO-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-225" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-79" value="ถอดถังแก๊สเก่าออกแล้าเอาถังแก๊สใหม๋มาเชื่อมใส่" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1000" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-60" target="0jGZSmvmxk3otOEil0KO-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="1050" as="targetPoint" />
+            <mxPoint x="-630" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-80" value="ให้พ่อจ่ายเงิน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-83" value="ต้มน้ำต่อ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.292;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-83" target="0jGZSmvmxk3otOEil0KO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-85" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;สุกล่ะตักใส่ถ้วย&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1285" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-87" target="0jGZSmvmxk3otOEil0KO-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="1600" />
+              <mxPoint x="790" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-90" value="น้ำ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-88">
+          <mxGeometry x="-0.5594" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-87" target="0jGZSmvmxk3otOEil0KO-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-91" value="แห้ง" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-89">
+          <mxGeometry x="-0.5323" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-87" value="แห้งหรือน้ำ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1540" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1105" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-92" value="เติมเครื่องปรุง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-93" value="ตักน้ำใส่" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="2180" as="targetPoint" />
+            <mxPoint x="1047.5" y="2039.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-100" value="เบิ่ด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-96">
+          <mxGeometry x="-0.2315" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1382.5" y="2039.5" as="targetPoint" />
+            <mxPoint x="1160" y="2039.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-101" value="มีอยู่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0jGZSmvmxk3otOEil0KO-97">
+          <mxGeometry x="-0.236" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-99" value="อยู่ๆก็อยากเติมน้ำปลา&lt;div&gt;มีน้ำปลาบ่อ้าย&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="1980" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-102" value="ขอเงินไปซื้อน้ำปลา" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-104" value="ไปซื้อน้ำปลาแล้วกลับบ้าน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-104" target="0jGZSmvmxk3otOEil0KO-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="2331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-106" value="เติมน้ำปลา" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-108" value="คลุกเคล้าให้เข้ากัน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jGZSmvmxk3otOEil0KO-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-110" value="กินมันซะ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jGZSmvmxk3otOEil0KO-112" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;จังหวัดจันทบุรี(จบ)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2520" width="320" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
