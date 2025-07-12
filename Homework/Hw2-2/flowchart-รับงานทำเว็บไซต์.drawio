@@ -1,0 +1,327 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Flowchart รับงานทำเว็บไซต์" id="0abcdef">
+    <mxGraphModel dx="464" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-1" value="ทบทวนสัญลักษณ์" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="-390" width="650" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="20" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.5" y="70" as="sourcePoint" />
+            <mxPoint x="84.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-4" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="150" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="40" as="sourcePoint" />
+            <mxPoint x="214.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-6" value="กระบวนการ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="320" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="40" as="sourcePoint" />
+            <mxPoint x="379.5" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.75" y="100" as="sourcePoint" />
+            <mxPoint x="380.25" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-9" value="ประโยคเงื่อนไข" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="490" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.71" y="30" as="sourcePoint" />
+            <mxPoint x="540.21" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.71" y="120" as="sourcePoint" />
+            <mxPoint x="540" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-12" value="จริง" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-11">
+          <mxGeometry x="-0.4142" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1" source="jhOdpT9zYc8lJzCHmcPO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="95" as="sourcePoint" />
+            <mxPoint x="610" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เท็จ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-13">
+          <mxGeometry x="-0.0019" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-15" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ฟังก์ชัน/โมดูล&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="25" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.70999999999998" y="150" as="sourcePoint" />
+            <mxPoint x="85.20999999999998" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.70999999999998" y="210" as="sourcePoint" />
+            <mxPoint x="85.20999999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="205" y="185" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.70999999999998" y="155" as="sourcePoint" />
+            <mxPoint x="215.20999999999998" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1" target="jhOdpT9zYc8lJzCHmcPO-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.99999999999997" y="155" as="sourcePoint" />
+            <mxPoint x="190.49999999999997" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1" target="jhOdpT9zYc8lJzCHmcPO-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999997" y="155" as="sourcePoint" />
+            <mxPoint x="240.49999999999997" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.70999999999998" y="205" as="sourcePoint" />
+            <mxPoint x="215.20999999999998" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-23" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ตัวเชื่อม&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="220" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.71" y="165" as="sourcePoint" />
+            <mxPoint x="354.21" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="339" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405.71" y="195" as="sourcePoint" />
+            <mxPoint x="406.21" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="391" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-28" value="หน้าต่อไป" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="345" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-29" value="ก" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="339" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-30" value="ก" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="391" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-31" value="แสดงผล/รับค่า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry x="450" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.71" y="180" as="sourcePoint" />
+            <mxPoint x="510.21" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.71" y="240" as="sourcePoint" />
+            <mxPoint x="510.21" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-34" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="880" height="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-35" target="jhOdpT9zYc8lJzCHmcPO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="255" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-36" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="245" y="1830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-39" target="jhOdpT9zYc8lJzCHmcPO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-39" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Post job on website or social media&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="200" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-41" target="jhOdpT9zYc8lJzCHmcPO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-41" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Customer inquires&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-43" target="jhOdpT9zYc8lJzCHmcPO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-43" value="Screen the customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-45" target="jhOdpT9zYc8lJzCHmcPO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-78" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-57">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-45" value="Customer suitable?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="245" y="610" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-46" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Decline the job politely&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="550" y="660" width="152.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-48" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Analyze requirements into clear points&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="195" y="840" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-47" target="jhOdpT9zYc8lJzCHmcPO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-47" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Provide quote + time frame&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="225" y="1000" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-50" target="jhOdpT9zYc8lJzCHmcPO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-82" value="Dissagree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-63">
+          <mxGeometry x="-0.0962" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-50" target="jhOdpT9zYc8lJzCHmcPO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-50" target="jhOdpT9zYc8lJzCHmcPO-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-83" value="agree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-65">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-50" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Customer agrees to terms?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="227.5" y="1130" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.5" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-51" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Sign contract&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="61.5" y="1165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-52" value="Renegotiate or end discussion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="520" y="1165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-53" target="jhOdpT9zYc8lJzCHmcPO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-53" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Sign contract&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="265" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-54" target="jhOdpT9zYc8lJzCHmcPO-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-54" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Collect upfront payment (deposit)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="211.25" y="1430" width="227.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-45" target="jhOdpT9zYc8lJzCHmcPO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-72" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhOdpT9zYc8lJzCHmcPO-56">
+          <mxGeometry x="-0.2343" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-48" target="jhOdpT9zYc8lJzCHmcPO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-59" target="jhOdpT9zYc8lJzCHmcPO-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-59" value="&lt;span style=&quot;color: rgb(232, 232, 232); font-family: Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(31, 31, 31);&quot;&gt;Start design and development&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="260" y="1550" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-60" target="jhOdpT9zYc8lJzCHmcPO-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1810" />
+              <mxPoint x="501" y="1810" />
+              <mxPoint x="501" y="1845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-60" value="Deliver final project + receive balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="440" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-61" target="jhOdpT9zYc8lJzCHmcPO-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-61" value="Send for customer review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry x="120" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34" source="jhOdpT9zYc8lJzCHmcPO-59" target="jhOdpT9zYc8lJzCHmcPO-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1580" />
+              <mxPoint x="550" y="1681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jhOdpT9zYc8lJzCHmcPO-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="116.25" y="1475.17" as="sourcePoint" />
+            <mxPoint x="210" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-37" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-90" width="675" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jhOdpT9zYc8lJzCHmcPO-38" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;โจทย์&lt;/u&gt;&lt;/b&gt; จงเขียน Flowchart เพื่ออธิบายกระบวนการในการรับงานทำเว็บไซต์จากลูกค้า&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (ดูตัวอย่างได้จากเว็บไซท์ https://www.fastwork.com)&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;b&gt;&lt;u&gt;หมายเหตุ&lt;/u&gt;&lt;/b&gt;&amp;nbsp;ควรมีขั้นตอนครบถ้วน เปรียบเสมือนตัวคุณเอง ที่กำลังอยากเริ่มต้นรับงานทำเว็บไซต์จากลูกค้าของคุณเอง&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; คุณจะต้องคำนึงถึงขั้นตอนทุกอย่างให้รอบคอบตั้งแต่การโพสหางาน การพูดคุยเพื่อคัดกรองลูกค้า&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; การพูดคุยเรื่องความต้องการของลูกค้าเป็นข้อๆให้ชัดเจน การเซ็นต์สัญญารับงาน การรับเงินล่วงหน้าก่อน ฯลฯ&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="jhOdpT9zYc8lJzCHmcPO-37">
+          <mxGeometry x="15" y="20" width="660" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
