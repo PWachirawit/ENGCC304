@@ -7,14 +7,20 @@ int main() {
     float total_salary;
 
     // Input
-    printf("Enter employee ID (Max. 10 chars): \n");
+    printf("Enter employee ID (Max. 10 chars): ");
     scanf("%10s", employee_id);
-    
-    printf("Input the working hrs: \n");
-    scanf("%d", &hours); // ใช้ %d เพราะ hours เป็น int
-    
-    printf("Salary amount/hr: \n");
-    scanf("%f", &salary_per_hour);
+
+    printf("Input the working hrs: ");
+    if (scanf("%d", &hours) != 1) {
+        printf("Invalid input for hours.\n");
+        return 1;
+    }
+
+    printf("Salary amount/hr: ");
+    if (scanf("%f", &salary_per_hour) != 1) {
+        printf("Invalid input for salary.\n");
+        return 1;
+    }
 
     // Calculate
     total_salary = hours * salary_per_hour;
